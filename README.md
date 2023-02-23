@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, my name is Nureko Wibowo and I am currently working as a Release Coordinator at Ruangguru, one of the leading EdTech companies in Indonesia. I have been with the company for more than 3 years and have played a key role in ensuring the quality and reliability of our products.
+Hi, my name is Nureko kustiarno Wibowo and I am currently working as a Release Coordinator at Ruangguru, one of the leading EdTech companies in Indonesia. I have been with the company for more than 3 years and have played a key role in ensuring the quality and reliability of our products.
 
 As a Release Coordinator, I am responsible for creating test plans, conducting test case development, defining the test environment, determining the effort of the testing process, and carrying out testing activities carefully and in a detailed-oriented manner. I also conduct integration testing between modules to ensure that the system can run well.
 
